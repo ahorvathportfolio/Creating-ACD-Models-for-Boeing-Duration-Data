@@ -5,4 +5,4 @@
  - Checking for diurnal cycles/trends
  - Modeling these trends, if they exist, and using a nonparamteric smoother before extracting the residuals
  - Fitting ACD models and comparing the AIC and BIC of the "best" models to find the overall "winning" model
- - Finally, if it was possible then try to perform out of sample forecasting
+ - Finally, if it was possible, performing out of sample forecasting
